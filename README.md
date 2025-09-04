@@ -2,7 +2,8 @@
 
 **Version:** 1.2.0  
 **Author:** opaque.poppy & herbs.acab
-MagicKits is an Oxide/uMod plugin for Rust that gives players customizable starter kits based on their permission groups when they respawn. It replaces the default rock and torch with configured items.
+
+Technically not the traditional kit plugin, however is used for convenient "spawn" kits, with minimal impact on server performance.
 
 ---
 
